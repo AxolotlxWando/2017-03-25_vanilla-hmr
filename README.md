@@ -2,7 +2,7 @@
 
 MIT licensed, this is a exercise following [the official Hot Module Replacement guide](https://webpack.js.org/guides/hmr-react/) referencing [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate/tree/next) also.
 
-# Exercise Summary
+## Exercise Summary
 
 First this is my first webpack 2 project. Then this is a quick exercise on plain
 HRM without react-hot-loader that preserve component states that is to be done
