@@ -2,8 +2,19 @@
 
 MIT licensed, this is a exercise following [the official Hot Module Replacement guide](https://webpack.js.org/guides/hmr-react/) referencing [react-hot-boilerplate](https://github.com/gaearon/react-hot-boilerplate/tree/next) also.
 
-## Exercise Summary
 
+## **\*2017-03-28 Update**
+I realised what I actually did is actually enabled react-hot-loader 3 (using
+babel plugin) I'm still a bit confused but this is just what happened. Project's
+name as well as below description need fixing to make this react-hot-loader 3
+exercise or the removal of AppContainer and entry of 'react-hot-loader/patch'
+should be made to make it actual vanilla hmr.
+
+Instead of doing that, commitments convinced me to leave this project as is for
+now for the reference and record.
+
+
+## Exercise Summary
 First this is my first webpack 2 project. Then this is a quick exercise on plain
 HRM without react-hot-loader that preserve component states that is to be done
 next.
